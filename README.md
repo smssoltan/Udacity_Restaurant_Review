@@ -2,7 +2,7 @@
 
 ## Live Link
    you can view this site if you click on the following link:
-   https://smssoltan.github.io/Udacity_Restaurant_Review/---
+   https://smssoltan.github.io/Udacity_Restaurant_Review/
    
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
